@@ -1,4 +1,4 @@
-# Sql_Projects
+# Sql_Projects (Laptop Data Analysis and Cleaning )
 
 💻 Laptop Data Analysis and Cleaning
 This project involves a thorough process of data cleaning 🧼 and exploratory data analysis (EDA) 📊 on a dataset of laptop specifications. The goal is to refine the dataset for deeper insights and prepare it for machine learning and analytical tasks.
