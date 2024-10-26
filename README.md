@@ -14,9 +14,11 @@ Exploratory Data Analysis (EDA) 📉:
 Conducted descriptive statistics and visualized distributions of price, RAM, and CPU speeds.
 Analyzed relationships between key features, like price vs. specifications and brand comparisons.
 Detected potential outliers using IQR and Z-score methods to maintain data quality.
+
 📂 Project Structure
 SQL Queries 📝: SQL scripts for data cleaning and transformation.
 Visualizations 📊: Graphs and plots from the EDA process.
 Documentation 🗒️: Step-by-step notes explaining each data cleaning and analysis step.
+
 🎯 Goals
 By the end, this analysis provides a clean and structured dataset with insights into laptop specs, brand pricing trends, and key performance metrics.
