@@ -24,4 +24,5 @@ Columns:
 3. Incomplete Data: Missing values in Ratings and GPU data posed challenges for accurate analysis, requiring careful imputation methods.
 
 📈 Project Results:
+
 After cleaning and analyzing the dataset, we produced detailed insights that highlight consumer preferences, brand positioning, and specification-based pricing. This dataset provides a solid basis for exploring the relationship between product specifications and consumer choices.
