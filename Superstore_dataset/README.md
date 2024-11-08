@@ -26,5 +26,7 @@ Columns:
 🚀 Getting Started
 
 Step 1: Load the dataset and perform initial inspections.
+
 Step 2: Run data cleaning scripts to prepare the data for accurate EDA.
+
 Step 3: Analyze case study questions and execute insights using SQL.
