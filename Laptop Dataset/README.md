@@ -1,6 +1,7 @@
 💻 Laptop Data Analysis – Data Cleaning, Case Study & Exploratory Data Analysis (EDA)
 
 Overview:
+
 This project involves a comprehensive analysis of a Laptop Dataset, covering a wide range of product features, specifications, and prices. The objective was to clean the data, analyze trends, and generate insights relevant to consumers and retailers. With a focus on improving data quality and conducting meaningful analysis, this project provides a complete breakdown of the laptop market.
 
 📂 Dataset Information:
